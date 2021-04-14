@@ -1,0 +1,1 @@
+"Small Translate Application Android" 
